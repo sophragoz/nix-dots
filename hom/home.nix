@@ -1,0 +1,1 @@
+/home/sophragoz/.config/home-manager/home.nix
